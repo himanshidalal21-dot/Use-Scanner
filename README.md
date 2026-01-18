@@ -1,2 +1,2 @@
 # Use-Scanner
-learning how to use scanner and take import
+learning how to use scanner and take input
